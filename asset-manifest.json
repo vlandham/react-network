@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-network/static/css/main.f911e602.chunk.css",
+    "main.js": "/react-network/static/js/main.a43ae705.chunk.js",
+    "main.js.map": "/react-network/static/js/main.a43ae705.chunk.js.map",
+    "runtime~main.js": "/react-network/static/js/runtime~main.bfce6324.js",
+    "runtime~main.js.map": "/react-network/static/js/runtime~main.bfce6324.js.map",
+    "static/css/2.35c5e089.chunk.css": "/react-network/static/css/2.35c5e089.chunk.css",
+    "static/js/2.3ef0243b.chunk.js": "/react-network/static/js/2.3ef0243b.chunk.js",
+    "static/js/2.3ef0243b.chunk.js.map": "/react-network/static/js/2.3ef0243b.chunk.js.map",
+    "index.html": "/react-network/index.html",
+    "precache-manifest.17bf49a821e2385ebc6ec181d6013854.js": "/react-network/precache-manifest.17bf49a821e2385ebc6ec181d6013854.js",
+    "service-worker.js": "/react-network/service-worker.js",
+    "static/css/2.35c5e089.chunk.css.map": "/react-network/static/css/2.35c5e089.chunk.css.map",
+    "static/css/main.f911e602.chunk.css.map": "/react-network/static/css/main.f911e602.chunk.css.map"
+  }
+}
