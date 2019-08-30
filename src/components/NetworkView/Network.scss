@@ -1,0 +1,19 @@
+$edge-color: #ddd;
+$node-highlight-color: 'tomato';
+
+.Network {
+  .edge-marker path {
+    fill: $edge-color;
+
+    &.highlight {
+      fill: $node-highlight-color;
+    }
+  }
+
+  .edge {
+    stroke: $edge-color;
+    fill-opacity: 1.0;
+    stroke-opacity: 1.0;
+    fill: none;
+  }
+}

@@ -1,0 +1,13 @@
+.HelpIcon {
+  font-size: 80%;
+  margin-right: 4px;
+  cursor: pointer;
+}
+
+.tippy-popper {
+  max-width: 240px;
+
+  .tippy-tooltip-content {
+    font-size: 80%;
+  }
+}

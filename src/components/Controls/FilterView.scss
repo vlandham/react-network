@@ -1,0 +1,50 @@
+.FilterView {
+  padding-bottom: 20px;
+
+  .toggle-area {
+    display: flex;
+    flex-direction: row;
+    text-align: right;
+
+    label {
+      display: inline-block;
+    }
+
+    .toggle-links {
+      flex: 1;
+      font-size: 12px;
+      cursor: pointer;
+
+      a {
+        outline: none;
+
+        &.active {
+          color: grey;
+          cursor: default;
+
+          &:hover {
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
+
+  .MultiSelect,
+  .FromToMultiSelect {
+    margin-bottom: 10px;
+  }
+
+  .connectivity {
+    min-height: 60px;
+
+    .rc-slider {
+      width: 90%;
+      margin-left: 6px;
+    }
+  }
+
+  .clear-button {
+    margin-bottom: 20px;
+  }
+}

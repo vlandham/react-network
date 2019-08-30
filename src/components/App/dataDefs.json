@@ -1,0 +1,16 @@
+[
+  {
+    "id": "id",
+    "label": "id",
+    "level": "Nominal",
+    "description": "",
+    "searchBy": true
+  },
+  {
+    "id": "name",
+    "label": "Name",
+    "level": "Nominal",
+    "description": "",
+    "searchBy": true
+  }
+]

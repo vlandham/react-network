@@ -1,0 +1,41 @@
+.Controls {
+  height: 100% !important;
+  padding: 10px;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  .section-head {
+    font-size: 16pt;
+    font-weight: bold;
+  }
+
+  .footer {
+    padding-bottom: 100px;
+  }
+
+  .control-item {
+    margin-bottom: 15px;
+  }
+
+  hr {
+    margin: 25px 0 20px 0;
+  }
+
+  .title-area {
+    display: flex;
+    flex-direction: row;
+    text-align: right;
+    padding-bottom: 10px;
+
+    .clear-link {
+      flex: 1;
+      font-size: 12px;
+      cursor: pointer;
+
+      button {
+        color: grey;
+        margin: 0;
+      }
+    }
+  }
+}
