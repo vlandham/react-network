@@ -8,8 +8,6 @@ import Network from '../NetworkView/Network';
 import dataDefs from './dataDefs.json';
 import controlsConfig from './controlsConfig.json';
 
-import './App.css';
-
 const FAKE_GRAPH = {
   nodes: [{ id: 'a' }, { id: 'b' }],
   edges: [{ source: 'a', target: 'b' }],

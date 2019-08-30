@@ -55,7 +55,7 @@ class DisplayView extends PureComponent {
   };
 
   static defaultProps = {
-    handleChange: () => {},
+    handleChange: () => { },
     viewConfigs: [],
   };
 
@@ -183,7 +183,6 @@ class DisplayView extends PureComponent {
           marks={marks}
           step={step}
           onChange={value => {
-            console.log('change value', value);
             this.handleDisplayChange(config.id, value);
           }}
           disabled={false}
